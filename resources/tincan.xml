@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tincan xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://nl9b6lSK" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="ru-RU">game-4_0</name>
+      <description lang="ru-RU"/>
+      <launch lang="ru-RU">test.html</launch>
+    </activity>
+  </activities>
+</tincan>
